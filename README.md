@@ -9,4 +9,4 @@ To make 2018 better, I want to use this project to keep motivate myself, and sto
 
 The progress will be pushed to [Log](./log.md) file
 
-This project is started from Thursday, January 3, 2018.
+This project is started from Wednesday, January 3, 2018.
