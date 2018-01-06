@@ -22,3 +22,14 @@
 * I want to continue develop my Portfolio FCC project, but I am stuck with CSS, I just don't know how to start.
 
 **Link to work**
+
+### Day 2: Friday, January 5, 2017
+
+**Today's Progress**:
+* Practice renderProps React pattern, as described in: https://www.youtube.com/watch?v=BcVAq3YFiuc&t=6s
+
+**Thoughts:**
+* I need to do a pet project, it'll require more work than just reading article or doing tutorial. I'll start in next week, this weekend is good time to think about what to do.
+
+**Link to work**
+* [renderProps example](https://github.com/tungnt-580/RenderPropsExample)
