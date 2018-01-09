@@ -33,3 +33,16 @@
 
 **Link to work**
 * [renderProps example](https://github.com/tungnt-580/RenderPropsExample)
+
+### Day 3: Tuesday, January 9, 2017
+
+**Today's Progress**:
+* Solve 3 FCC challenges:
+1. https://www.freecodecamp.org/challenges/boo-who
+2. https://www.freecodecamp.org/challenges/sorted-union
+3. https://www.freecodecamp.org/challenges/convert-html-entities
+
+**Thoughts:**
+* Still didn't have idea for pet project. It's not easy as I thought. The deadline for thinking about idea is move to this weekend. "Please use your time carefully, don't waste it" - Talk to myself.
+
+**Link to work**
