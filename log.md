@@ -46,3 +46,12 @@
 * Still didn't have idea for pet project. It's not easy as I thought. The deadline for thinking about idea is move to this weekend. "Please use your time carefully, don't waste it" - Talk to myself.
 
 **Link to work**
+
+### Day 4: Wednesday, January 10, 2017
+
+**Today's Progress**:
+* Join FCC Ha Noi Meet up, they're planning to develop a blog app using Express + React. Today, we design database, discuss about workflow, and setup project.
+
+**Thoughts:**
+
+**Link to work**
