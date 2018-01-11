@@ -55,3 +55,16 @@
 **Thoughts:**
 
 **Link to work**
+
+### Day 5: Wednesday, January 11, 2017
+
+**Today's Progress**:
+* Solve 2 FCC challenges:
+1. https://www.freecodecamp.org/challenges/sum-all-odd-fibonacci-numbers
+2. https://www.freecodecamp.org/challenges/sum-all-primes
+
+**Thoughts:**
+* I decide to try to finish my FCC portolio projecct before doing anything else. Tomorrow is a busy day, so I will start in Saturday.
+
+**Link to work**
+
