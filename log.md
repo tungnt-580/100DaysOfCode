@@ -68,3 +68,15 @@
 
 **Link to work**
 
+### Day 6: Sunday, January 14, 2018
+
+
+
+**Today's Progress**:
+* Working 1h on portfolio FCC project: Make some HTML
+
+**Thoughts:**
+
+**Link to work**
+* [Portfolio](https://codepen.io/thetungctn/pen/KyrbNG)
+
