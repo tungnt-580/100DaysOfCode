@@ -70,8 +70,6 @@
 
 ### Day 6: Sunday, January 14, 2018
 
-
-
 **Today's Progress**:
 * Working 1h on portfolio FCC project: Make some HTML
 
@@ -79,4 +77,14 @@
 
 **Link to work**
 * [Portfolio](https://codepen.io/thetungctn/pen/KyrbNG)
+
+### Day 7: Monday, January 15, 2018
+
+**Today's Progress**:
+* Solve 1 FCC challange: https://www.freecodecamp.org/challenges/smallest-common-multiple (It take 1h because the first solution I written failed the last test case but I didn't know why (It return correctly value when I run in Chrome console). After reviewed others's solution (for fun) and came back to my code, I found that may be it run out of time with last test case, then I changed code to better solution and "Tara, passed!").
+
+**Thoughts:**
+* I'm so happy I learn to code and do meaningful things every day.
+
+**Link to work**
 
