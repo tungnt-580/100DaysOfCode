@@ -19,3 +19,13 @@
 
 **Link to work:**
 * https://codepen.io/thetungctn/pen/KyrbNG
+
+### Day 2: Sunday, February 18, 2018
+
+**Today's Progress**:
+* Working 1 hour on Portfolio project. Making section's skeleton.
+
+**Thoughts:**
+
+**Link to work:**
+* https://codepen.io/thetungctn/pen/KyrbNG
