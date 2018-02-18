@@ -29,3 +29,12 @@
 
 **Link to work:**
 * https://codepen.io/thetungctn/pen/KyrbNG
+
+### Day 3: Monday, February 19, 2018
+
+**Today's Progress**:
+* Solve [Drop it](https://www.freecodecamp.org/challenges/drop-it) FCC problem.
+
+**Thoughts:**
+
+**Link to work:**
