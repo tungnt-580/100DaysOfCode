@@ -38,3 +38,12 @@
 **Thoughts:**
 
 **Link to work:**
+
+### Day 4: Tuesday, February 20, 2018
+
+**Today's Progress**:
+* Just commit to keep streek :).
+
+**Thoughts:**
+
+**Link to work:**
