@@ -47,3 +47,12 @@
 **Thoughts:**
 
 **Link to work:**
+
+### Day 5: Wednesday, February 21, 2018
+
+**Today's Progress**:
+* 1 hours on Chingu Voyage 4 project. Understand project idea, walk through team mates' work.
+
+**Thoughts:**
+
+**Link to work:**
