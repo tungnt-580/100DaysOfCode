@@ -56,3 +56,12 @@
 **Thoughts:**
 
 **Link to work:**
+
+### Day 6: Thursday, February 22, 2018
+
+**Today's Progress**:
+* 1 hours on Chingu Voyage 4 project. Setup test for back-end: install mocha and chai, write a simple test case.
+
+**Thoughts:**
+
+**Link to work:**
