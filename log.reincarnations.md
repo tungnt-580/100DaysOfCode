@@ -65,3 +65,12 @@
 **Thoughts:**
 
 **Link to work:**
+
+### Day 7: Friday, February 23, 2018
+
+**Today's Progress**:
+* Solve [Steamroller](https://www.freecodecamp.org/challenges/steamroller) FCC problem.
+
+**Thoughts:**
+
+**Link to work:**
