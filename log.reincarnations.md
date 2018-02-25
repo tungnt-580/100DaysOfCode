@@ -92,3 +92,13 @@
 **Thoughts:**
 
 **Link to work:**
+
+### Day 10: Monday, February 26, 2018
+
+**Today's Progress**:
+* 2 hours on Portfolio project. Almost done, need to improve content.
+
+**Thoughts:**
+
+**Link to work:**
+* https://codepen.io/thetungctn/pen/KyrbNG
