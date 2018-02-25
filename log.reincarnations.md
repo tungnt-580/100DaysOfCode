@@ -75,10 +75,19 @@
 
 **Link to work:**
 
-### Day 7: Friday, February 23, 2018
+### Day 8: Saturday, February 24, 2018
 
 **Today's Progress**:
 * Solve [Binary Agents](https://www.freecodecamp.org/challenges/binary-agents) FCC problem.
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 9: Sunday, February 25, 2018
+
+**Today's Progress**:
+* Solve [Everything Be True](https://www.freecodecamp.org/challenges/everything-be-true) FCC problem.
 
 **Thoughts:**
 
