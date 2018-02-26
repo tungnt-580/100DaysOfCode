@@ -102,3 +102,13 @@
 
 **Link to work:**
 * https://codepen.io/thetungctn/pen/KyrbNG
+
+### Day 11: Tuesday, February 27, 2018
+
+**Today's Progress**:
+* Working on Chingu project. Create database schemas.
+
+**Thoughts:**
+
+**Link to work:**
+* https://github.com/TheOmegaBlack/chingu-voyage4-Bears-Team-6-backend/pull/15
