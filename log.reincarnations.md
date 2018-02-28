@@ -112,3 +112,12 @@
 
 **Link to work:**
 * https://github.com/TheOmegaBlack/chingu-voyage4-Bears-Team-6-backend/pull/15
+
+### Day 12: Wednesday, February 28, 2018
+
+**Today's Progress**:
+* Solve [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional) FCC problem.
+
+**Thoughts:**
+
+**Link to work:**
