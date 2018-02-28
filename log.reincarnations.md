@@ -121,3 +121,12 @@
 **Thoughts:**
 
 **Link to work:**
+
+### Day 13: Thursday, March 1, 2018
+
+**Today's Progress**:
+* Work on Chingu project. Define project structure
+
+**Thoughts:**
+
+**Link to work:**
