@@ -141,7 +141,7 @@
 **Link to work:**
 https://codepen.io/thetungctn/pen/QQZLRy
 
-### Day 15, Saturday, March 3, 2018
+### Day 15: Saturday, March 3, 2018
 
 **Today's Progress**:
 * Work on Random Quote Machine FCC project. Add *Tweet* button.
@@ -150,3 +150,13 @@ https://codepen.io/thetungctn/pen/QQZLRy
 
 **Link to work:**
 https://codepen.io/thetungctn/pen/QQZLRy
+
+### Day 16: Sunday, March 4, 2018
+
+**Today's Progress**:
+* Work on Chingu project. Voice chat with Vladimir to understand front-end project
+
+**Thoughts:**
+* Nice day!
+
+**Link to work:**
