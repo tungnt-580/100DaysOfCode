@@ -134,7 +134,17 @@
 ### Day 14: Friday, March 2, 2018
 
 **Today's Progress**:
-* Work on Random Quote Machine FCC project. Write basic HTML, CSS, and make a static quotes data
+* Work on Random Quote Machine FCC project. Write basic HTML, CSS, and make a static quotes data.
+
+**Thoughts:**
+
+**Link to work:**
+https://codepen.io/thetungctn/pen/QQZLRy
+
+### Day 15, Saturday, March 3, 2018
+
+**Today's Progress**:
+* Work on Random Quote Machine FCC project. Add *Tweet* button.
 
 **Thoughts:**
 
