@@ -160,3 +160,12 @@ https://codepen.io/thetungctn/pen/QQZLRy
 * Nice day!
 
 **Link to work:**
+
+### Day 16: Mongday, March 5, 2018
+
+**Today's Progress**:
+* Learn new things. Javasript generator function
+
+**Thoughts:**
+
+**Link to work:**
