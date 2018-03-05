@@ -154,17 +154,26 @@ https://codepen.io/thetungctn/pen/QQZLRy
 ### Day 16: Sunday, March 4, 2018
 
 **Today's Progress**:
-* Work on Chingu project. Voice chat with Vladimir to understand front-end project
+* Work on Chingu project. Voice chat with Vladimir to understand front-end project.
 
 **Thoughts:**
 * Nice day!
 
 **Link to work:**
 
-### Day 16: Mongday, March 5, 2018
+### Day 17: Mongday, March 5, 2018
 
 **Today's Progress**:
-* Learn new things. Javasript generator function
+* Learn new things. Javasript generator function.
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 18: Tuesday, March 6, 2018
+
+**Today's Progress**:
+* Learn redux-saga to use in Chingu front-end project.
 
 **Thoughts:**
 
