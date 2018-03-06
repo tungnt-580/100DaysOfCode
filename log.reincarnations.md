@@ -3,7 +3,7 @@
 ### Day 0: Friday, February 16, 2018
 
 **Today's Progress**:
-* Solve [Finders Keepers](https://www.freecodecamp.org/challenges/finders-keepers) FCC problem.
+* Solving [Finders Keepers](https://www.freecodecamp.org/challenges/finders-keepers) FCC problem.
 
 **Thoughts:**
 * Today is Lunar new year. Just write some codes for a new coding voyage. Be brave and just do it!
@@ -33,7 +33,7 @@
 ### Day 3: Monday, February 19, 2018
 
 **Today's Progress**:
-* Solve [Drop it](https://www.freecodecamp.org/challenges/drop-it) FCC problem.
+* Solving [Drop it](https://www.freecodecamp.org/challenges/drop-it) FCC problem.
 
 **Thoughts:**
 
@@ -42,7 +42,7 @@
 ### Day 4: Tuesday, February 20, 2018
 
 **Today's Progress**:
-* Just commit to keep streek :).
+* Just making commit to keep streek :).
 
 **Thoughts:**
 
@@ -51,7 +51,7 @@
 ### Day 5: Wednesday, February 21, 2018
 
 **Today's Progress**:
-* 1 hours on Chingu Voyage 4 project. Understand project idea, walk through team mates' work.
+* Working 1 hours on Chingu Voyage 4 project. Understand project idea, walk through team mates' work.
 
 **Thoughts:**
 
@@ -60,7 +60,7 @@
 ### Day 6: Thursday, February 22, 2018
 
 **Today's Progress**:
-* 1 hours on Chingu Voyage 4 project. Setup test for back-end: install mocha and chai, write a simple test case.
+* Working 1 hours on Chingu Voyage 4 project. Setup test for back-end: install mocha and chai, write a simple test case.
 
 **Thoughts:**
 
@@ -69,7 +69,7 @@
 ### Day 7: Friday, February 23, 2018
 
 **Today's Progress**:
-* Solve [Steamroller](https://www.freecodecamp.org/challenges/steamroller) FCC problem.
+* Solving [Steamroller](https://www.freecodecamp.org/challenges/steamroller) FCC problem.
 
 **Thoughts:**
 
@@ -78,7 +78,7 @@
 ### Day 8: Saturday, February 24, 2018
 
 **Today's Progress**:
-* Solve [Binary Agents](https://www.freecodecamp.org/challenges/binary-agents) FCC problem.
+* Solving [Binary Agents](https://www.freecodecamp.org/challenges/binary-agents) FCC problem.
 
 **Thoughts:**
 
@@ -87,7 +87,7 @@
 ### Day 9: Sunday, February 25, 2018
 
 **Today's Progress**:
-* Solve [Everything Be True](https://www.freecodecamp.org/challenges/everything-be-true) FCC problem.
+* Solving [Everything Be True](https://www.freecodecamp.org/challenges/everything-be-true) FCC problem.
 
 **Thoughts:**
 
@@ -96,7 +96,7 @@
 ### Day 10: Monday, February 26, 2018
 
 **Today's Progress**:
-* 2 hours on Portfolio project. Almost done, need to improve content.
+* Working 2 hours on Portfolio project. Almost done, need to improve content.
 
 **Thoughts:**
 
@@ -116,7 +116,7 @@
 ### Day 12: Wednesday, February 28, 2018
 
 **Today's Progress**:
-* Solve [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional) FCC problem.
+* Solving [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional) FCC problem.
 
 **Thoughts:**
 
@@ -125,7 +125,7 @@
 ### Day 13: Thursday, March 1, 2018
 
 **Today's Progress**:
-* Work on Chingu project. Define project structure
+* Working on Chingu project. Define project structure
 
 **Thoughts:**
 
@@ -134,7 +134,7 @@
 ### Day 14: Friday, March 2, 2018
 
 **Today's Progress**:
-* Work on Random Quote Machine FCC project. Write basic HTML, CSS, and make a static quotes data.
+* Working on Random Quote Machine FCC project. Write basic HTML, CSS, and make a static quotes data.
 
 **Thoughts:**
 
@@ -144,7 +144,7 @@
 ### Day 15: Saturday, March 3, 2018
 
 **Today's Progress**:
-* Work on Random Quote Machine FCC project. Add *Tweet* button.
+* Working on Random Quote Machine FCC project. Add *Tweet* button.
 
 **Thoughts:**
 
@@ -154,7 +154,7 @@
 ### Day 16: Sunday, March 4, 2018
 
 **Today's Progress**:
-* Work on Chingu project. Voice chat with Vladimir to understand front-end project.
+* Working on Chingu project. Voice chat with Vladimir to understand front-end project.
 
 **Thoughts:**
 * Nice day!
@@ -164,7 +164,7 @@
 ### Day 17: Mongday, March 5, 2018
 
 **Today's Progress**:
-* Learn new things. Javasript generator function.
+* Learning new things. Javasript generator function.
 
 **Thoughts:**
 
@@ -173,7 +173,7 @@
 ### Day 18: Tuesday, March 6, 2018
 
 **Today's Progress**:
-* Learn redux-saga to use in Chingu front-end project.
+* Learning redux-saga to use in Chingu front-end project.
 
 **Thoughts:**
 
