@@ -139,7 +139,7 @@
 **Thoughts:**
 
 **Link to work:**
-https://codepen.io/thetungctn/pen/QQZLRy
+* https://codepen.io/thetungctn/pen/QQZLRy
 
 ### Day 15: Saturday, March 3, 2018
 
@@ -149,7 +149,7 @@ https://codepen.io/thetungctn/pen/QQZLRy
 **Thoughts:**
 
 **Link to work:**
-https://codepen.io/thetungctn/pen/QQZLRy
+* https://codepen.io/thetungctn/pen/QQZLRy
 
 ### Day 16: Sunday, March 4, 2018
 
@@ -174,6 +174,15 @@ https://codepen.io/thetungctn/pen/QQZLRy
 
 **Today's Progress**:
 * Learn redux-saga to use in Chingu front-end project.
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 19: Wednesday, March 7, 2018
+
+**Today's Progress**:
+* Working on Chingu project. Discuss with back-end team for spliting and assigning tasks of Sprint 1 for each member.
 
 **Thoughts:**
 
