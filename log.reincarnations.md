@@ -187,3 +187,13 @@
 **Thoughts:**
 
 **Link to work:**
+
+### Day 20: Thursday, March 8, 2018
+
+**Today's Progress**:
+* Working on Chingu project. Add authenticate with jwt using passport and passport-jwt.
+
+**Thoughts:**
+
+**Link to work:**
+https://github.com/TheOmegaBlack/chingu-voyage4-Bears-Team-6-backend/pull/33
