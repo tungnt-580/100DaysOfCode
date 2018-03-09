@@ -197,3 +197,12 @@
 
 **Link to work:**
 https://github.com/TheOmegaBlack/chingu-voyage4-Bears-Team-6-backend/pull/33
+
+### Day 21: Friday, March 9, 2018
+
+**Today's Progress**:
+* Writing a blog post. Gather idea -> renderProps
+
+**Thoughts:**
+
+**Link to work:**
