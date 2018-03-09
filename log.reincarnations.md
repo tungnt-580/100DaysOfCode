@@ -206,3 +206,12 @@ https://github.com/TheOmegaBlack/chingu-voyage4-Bears-Team-6-backend/pull/33
 **Thoughts:**
 
 **Link to work:**
+
+### Day 22: Saturday, March 9, 2018
+
+**Today's Progress**:
+* Working on Chingu project. Help mikeale to finish registration/login pull task.
+
+**Thoughts:**
+
+**Link to work:**
