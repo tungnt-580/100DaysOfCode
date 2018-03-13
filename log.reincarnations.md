@@ -219,7 +219,16 @@ https://github.com/TheOmegaBlack/chingu-voyage4-Bears-Team-6-backend/pull/33
 ### Day 23: Sunday, March 11, 2018
 
 **Today's Progress**:
-* Writing a blog post that introduce renderProps pattern in English.
+* Writing a blog post that introduce renderProps pattern in Vietnamese.
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 24: Tuesday, March 12, 2018
+
+**Today's Progress**:
+* Finishing and Uploading the blog post.
 
 **Thoughts:**
 
