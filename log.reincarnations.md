@@ -225,10 +225,19 @@ https://github.com/TheOmegaBlack/chingu-voyage4-Bears-Team-6-backend/pull/33
 
 **Link to work:**
 
-### Day 24: Tuesday, March 12, 2018
+### Day 24: Tuesday, March 13, 2018
 
 **Today's Progress**:
 * Finishing and Uploading the blog post.
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 25: Wednesday, March 14, 2018
+
+**Today's Progress**:
+* Watching video about apply Atomic design to structure React project.
 
 **Thoughts:**
 
