@@ -242,3 +242,12 @@ https://github.com/TheOmegaBlack/chingu-voyage4-Bears-Team-6-backend/pull/33
 **Thoughts:**
 
 **Link to work:**
+
+### Day 26: Thursday, March 15, 2018
+
+**Today's Progress**:
+* Working on Chingu project: Writing documents for introducing How back-end project work - structures, running flow, technicals using, .etc
+
+**Thoughts:**
+
+**Link to work:**
