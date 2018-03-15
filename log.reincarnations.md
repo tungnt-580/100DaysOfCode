@@ -251,3 +251,12 @@ https://github.com/TheOmegaBlack/chingu-voyage4-Bears-Team-6-backend/pull/33
 **Thoughts:**
 
 **Link to work:**
+
+### Day 27: Friday, March 16, 2018
+
+**Today's Progress**:
+* Working on Random Quote Machine FCC project. Finish it!
+
+**Thoughts:**
+
+**Link to work:**
