@@ -255,8 +255,20 @@ https://github.com/TheOmegaBlack/chingu-voyage4-Bears-Team-6-backend/pull/33
 ### Day 27: Friday, March 16, 2018
 
 **Today's Progress**:
+
 * Working on Random Quote Machine FCC project. Finish it!
 
 **Thoughts:**
 
 **Link to work:**
+
+### Day 28: Saturday, March 17, 2018
+
+**Today's Progress**:
+* Working on Store management side project. Deploy heroku.
+
+**Thoughts:**
+* Really like this kind of leanring, really fun! Keep going, me.
+
+**Link to work:**
+https://tung-store.herokuapp.com/
