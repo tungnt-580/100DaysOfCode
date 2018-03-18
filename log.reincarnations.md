@@ -272,3 +272,13 @@ https://github.com/TheOmegaBlack/chingu-voyage4-Bears-Team-6-backend/pull/33
 
 **Link to work:**
 https://tung-store.herokuapp.com/
+
+### Day 29: Sunday, March 18, 2018
+
+**Today's progress**:
+* Working with my portfolio. Deploy to github.io.
+
+**Thoughts:**
+
+**Link to work:**
+https://tungnt-580.github.io/
