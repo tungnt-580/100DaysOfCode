@@ -282,3 +282,12 @@ https://tung-store.herokuapp.com/
 
 **Link to work:**
 https://tungnt-580.github.io/
+
+### Day 30: Monday, March 19, 2018
+
+**Today's progress**:
+* Working on Chingu project. Handle error message for front-end.
+
+**Thoughts:**
+
+**Link to work:**
