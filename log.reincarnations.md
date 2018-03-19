@@ -291,3 +291,14 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 31: Tuesday, March 20, 2018
+
+**Today's progress**:
+* Deciding to quit Chingu project. Write some last words for team mates and Chingu committee.
+
+**Thoughts:**
+* Try to contribute in midnight these days but feeling too tired. So, quitting is better solution.
+* Quit Chingu is not some things like give up, just give time for Chingu to other activites, and take more care to myself.
+
+**Link to work:**
