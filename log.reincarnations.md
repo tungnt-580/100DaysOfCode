@@ -302,3 +302,12 @@ https://tungnt-580.github.io/
 * Quit Chingu is not some things like give up, just give time for Chingu to other activites, and take more care to myself.
 
 **Link to work:**
+
+### Day 32: Wednesday, March 21, 2018
+
+**Today's progress**:
+* Working on FCC HN blog project. Add register page for front-end.
+
+**Thoughts:**
+
+**Link to work:**
