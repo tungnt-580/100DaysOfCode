@@ -311,3 +311,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 33: Thursday, March 22, 2018
+
+**Today's progress**:
+* Solving [Validate US Telephone Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers) FCC challenge
+
+**Thoughts:**
+
+**Link to work:**
