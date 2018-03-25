@@ -338,3 +338,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 36: Sunday, March 25, 2018
+
+**Today's progress:**
+* Learning CSS animation (continue).
+
+**Thoughts:**
+
+**Link to work:**
