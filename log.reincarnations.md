@@ -347,3 +347,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 37: Monday, March 26, 2018
+
+**Today's progress:**
+* Working on 2048 project. Add some styles: color, fonts, .etc
+
+**Thoughts:**
+
+**Link to work:**
