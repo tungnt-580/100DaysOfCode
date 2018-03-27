@@ -356,3 +356,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 38: Monday, March 27, 2018
+
+**Today's progress:**
+* Doing nothing. Just commit to keep streak.
+
+**Thoughts:**
+
+**Link to work:**
