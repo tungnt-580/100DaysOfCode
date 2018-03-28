@@ -357,10 +357,19 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
-### Day 38: Monday, March 27, 2018
+### Day 38: Tuesday, March 27, 2018
 
 **Today's progress:**
 * Doing nothing. Just commit to keep streak.
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 39: Thursday, March 28, 2018
+
+**Today's progress:**
+* Going to Ha Noi FCC Meetup.
 
 **Thoughts:**
 
