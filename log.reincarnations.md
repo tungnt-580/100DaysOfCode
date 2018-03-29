@@ -366,10 +366,19 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
-### Day 39: Thursday, March 28, 2018
+### Day 39: Wednesday, March 28, 2018
 
 **Today's progress:**
-* Going to Ha Noi FCC Meetup.
+* Going to FCC Ha Noi Meetup.
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 40: Thursday, March 29, 2018
+
+**Today's progress:**
+* Solving a Codewars kata.
 
 **Thoughts:**
 
