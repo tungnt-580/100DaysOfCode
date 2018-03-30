@@ -383,3 +383,13 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 41: Friday, March 30, 2018
+
+**Today's progress:**
+* Doing nothing. Just commit to keep streak :)).
+
+**Thoughts:**
+* Need to commback tomorrow.
+
+**Link to work:**
