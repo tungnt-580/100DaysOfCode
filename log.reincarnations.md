@@ -390,6 +390,16 @@ https://tungnt-580.github.io/
 * Doing nothing. Just commit to keep streak :)).
 
 **Thoughts:**
-* Need to commback tomorrow.
+* Need to comeback tomorrow.
+
+**Link to work:**
+
+### Day 42: Saturday, March 31, 2018 
+
+**Today's progress:**
+* Again, doing nothing (Don't have computer to do anything today).
+
+**Thoughts:**
+* I'll comeback torrow, for sure.
 
 **Link to work:**
