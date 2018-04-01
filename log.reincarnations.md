@@ -394,12 +394,21 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
-### Day 42: Saturday, March 31, 2018 
+### Day 42: Saturday, March 31, 2018
 
 **Today's progress:**
 * Again, doing nothing (Don't have computer to do anything today).
 
 **Thoughts:**
 * I'll comeback torrow, for sure.
+
+**Link to work:**
+
+### Day 43: Sunday, April 1, 2018
+
+**Today's progress:**
+* Solving a codewars Kata. Become *4 kyu*.
+
+**Thoughts:**
 
 **Link to work:**
