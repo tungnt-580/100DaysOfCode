@@ -412,3 +412,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 44: Monday. April 2, 2018
+
+**Today's progress:**
+* Working on Booking app - new side project
+
+**Thoughts:**
+
+**Link to work:**
