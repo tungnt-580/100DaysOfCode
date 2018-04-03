@@ -413,11 +413,21 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
-### Day 44: Monday. April 2, 2018
+### Day 44: Monday, April 2, 2018
 
 **Today's progress:**
-* Working on Booking app - new side project
+* Working on Booking app - new side project.
 
 **Thoughts:**
+
+**Link to work:**
+
+### Day 45: Tuesday, April 3, 2018
+
+**Today's progress:**
+* Doing a NodeSchool workshop - Javascripting.
+
+**Thoughts:**
+* New challenge - A Nodeschool workshop per day.
 
 **Link to work:**
