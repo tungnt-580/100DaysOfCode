@@ -431,3 +431,12 @@ https://tungnt-580.github.io/
 * New challenge - A Nodeschool workshop per day.
 
 **Link to work:**
+
+### Day 46: Wednesday, April 4, 2018
+
+**Today's progress:**
+* Doing a NodeSchool workshop - Learnyounode.
+
+**Thoughts:**
+
+**Link to work:**
