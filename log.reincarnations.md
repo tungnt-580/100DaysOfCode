@@ -450,10 +450,19 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
-### Day 47: Thursday, April 5, 2018
+### Day 48: Friday, April 6, 2018
 
 **Today's progress:**
 * Learning Next.js
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 49: Saturday, April 7, 2018
+
+**Today's progress:**
+* Reading Eloquent Javascript. Chapter 1 - Values, Types, and Operators.
 
 **Thoughts:**
 
