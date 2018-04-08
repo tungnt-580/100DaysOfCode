@@ -444,7 +444,7 @@ https://tungnt-580.github.io/
 ### Day 47: Thursday, April 5, 2018
 
 **Today's progress:**
-* Learning GraphQL - Introduction
+* Learning GraphQL - Introduction.
 
 **Thoughts:**
 
@@ -453,7 +453,7 @@ https://tungnt-580.github.io/
 ### Day 48: Friday, April 6, 2018
 
 **Today's progress:**
-* Learning Next.js
+* Learning Next.js.
 
 **Thoughts:**
 
@@ -465,5 +465,16 @@ https://tungnt-580.github.io/
 * Reading Eloquent Javascript. Chapter 1 - Values, Types, and Operators.
 
 **Thoughts:**
+
+**Link to work:**
+
+### Day 50: Sunday, April 8, 2018
+
+**Today's progress:**
+* Learning GraphQL - Core concepts.
+* Solving 1 Codewars Kata
+
+**Thoughts:**
+* Half of the way. Keep moving!
 
 **Link to work:**
