@@ -478,3 +478,12 @@ https://tungnt-580.github.io/
 * Half of the way. Keep moving!
 
 **Link to work:**
+
+### Day 51: Monday, April 9, 2018
+
+**Today's progress:**
+* Starting FCC new curriculum on beta.freecodecamp.com - Basic HTML and HTML5.
+
+**Thoughts:**
+
+**Link to work:**
