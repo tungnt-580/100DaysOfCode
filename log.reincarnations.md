@@ -487,3 +487,13 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 52: Tuesday, April 10, 2018
+
+**Today's progress:**
+* Learning Next.js.
+
+**Thoughts:**
+
+**Link to work:**
+
