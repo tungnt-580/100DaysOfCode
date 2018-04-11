@@ -497,3 +497,12 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
+### Day 53: Wednesday, April 11, 2018
+
+**Today's progress:**
+* Learning Next.js. Deploy with Now.
+
+**Thoughts:**
+
+**Link to work:**
+
