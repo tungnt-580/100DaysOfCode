@@ -506,3 +506,12 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
+### Day 53: Thursday, April 12, 2018
+
+**Today's progress:**
+* Doing FCC. Basic CSS.
+
+**Thoughts:**
+
+**Link to work:**
+
