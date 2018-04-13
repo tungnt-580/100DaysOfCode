@@ -515,3 +515,12 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
+### Day 54: Friday, April 13, 2018
+
+**Today's progress:**
+* Learning Next.js. Finished.
+
+**Thoughts:**
+
+**Link to work:**
+
