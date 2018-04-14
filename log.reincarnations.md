@@ -506,7 +506,7 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
-### Day 53: Thursday, April 12, 2018
+### Day 54: Thursday, April 12, 2018
 
 **Today's progress:**
 * Doing FCC. Basic CSS.
@@ -515,7 +515,7 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
-### Day 54: Friday, April 13, 2018
+### Day 55: Friday, April 13, 2018
 
 **Today's progress:**
 * Learning Next.js. Finished.
@@ -524,3 +524,12 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
+
+### Day 56: Saturday , April 14, 2018
+
+**Today's progress:**
+* Doing nothing. Just commit to keep streak. 
+
+**Thoughts:**
+
+**Link to work:**
