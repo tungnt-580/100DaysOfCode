@@ -525,10 +525,19 @@ https://tungnt-580.github.io/
 **Link to work:**
 
 
-### Day 56: Saturday , April 14, 2018
+### Day 56: Saturday, April 14, 2018
 
 **Today's progress:**
-* Doing nothing. Just commit to keep streak. 
+* Doing nothing. Just commit to keep streak.
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 57: Sunday, April 15, 2018
+
+**Today's progress:**
+* Watching React Amsterdam Conferrence 2018.
 
 **Thoughts:**
 
