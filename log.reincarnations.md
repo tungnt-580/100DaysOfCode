@@ -542,3 +542,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 58: Monday, April 16, 2018
+
+**Today's progress:**
+* Doing FCC. Applied Visual Design.
+
+**Thoughts:**
+
+**Link to work:**
