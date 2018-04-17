@@ -551,3 +551,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 59: Tuesday, April 17, 2018
+
+**Today's progress:**
+* Reading Eloquent Javascript. Chapter 2 - Program Structure.
+
+**Thoughts:**
+
+**Link to work:**
