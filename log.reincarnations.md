@@ -560,3 +560,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 60: Wednesday, April 18, 2018
+
+**Today's progress:**
+* Reading Eloquent Javascript. Chapter 3 - Functions.
+
+**Thoughts:**
+
+**Link to work:**
