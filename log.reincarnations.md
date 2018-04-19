@@ -569,3 +569,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 61: Thursday, April 19, 2018
+
+**Today's progress:**
+* Reading [this](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained) article that is about React virtual DOM.
+
+**Thoughts:**
+
+**Link to work:**
