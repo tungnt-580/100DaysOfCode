@@ -579,13 +579,8 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
-### Day 62: Friday, April 20, 2018
+### Friday, April 20, 2018 -> Doing nothing.
 
-**Today's progress:**
-* Doing nothing.
-
-**Thoughts:**
-
-**Link to work:**
+### Saturday, April 21, 2018 -> Doing nothing.
 
 
