@@ -579,10 +579,14 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
-### Friday, April 20, 2018 -> Doing nothing.
+### Start 5 days Singapore trip. Will do nothing below days:
 
-### Saturday, April 21, 2018 -> Doing nothing.
+* Friday, April 20, 2018.
 
-### Sunday, April 22, 2018 -> Doing nothing. 
+* Saturday, April 21, 2018.
 
-### Monday, April 23, 2018 -> Doing nothing. 
+* Sunday, April 22, 2018.
+
+* Monday, April 23, 2018.
+
+* Tuesday,  April 24, 2018.
