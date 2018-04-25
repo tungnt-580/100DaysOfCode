@@ -590,3 +590,12 @@ https://tungnt-580.github.io/
 * Monday, April 23, 2018.
 
 * Tuesday,  April 24, 2018.
+
+### Day 62: Wednesday, April 25, 2018
+
+**Today's progress:**
+* Doing FCC beta. Applied Accessibility.
+
+**Thoughts:**
+
+**Link to work:**
