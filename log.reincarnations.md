@@ -599,3 +599,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 63: Thursday, April 26, 2018
+
+**Today's progress:**
+* Doing FCC beta. Responsive Web Design Principles.
+
+**Thoughts:**
+
+**Link to work:**
