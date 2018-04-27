@@ -608,3 +608,13 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 64: Friday, April 27, 2018
+
+**Today's progress:**
+* Doing a NodeSchool workshop - How to npm.
+* Doing FCC beta - CSS Flexbox.
+
+**Thoughts:**
+
+**Link to work:**
