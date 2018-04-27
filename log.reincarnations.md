@@ -613,7 +613,7 @@ https://tungnt-580.github.io/
 
 **Today's progress:**
 * Doing a NodeSchool workshop - How to npm.
-* Doing FCC beta - CSS Flexbox.
+* Doing FCC beta - CSS Flexbox & CSS Grid.
 
 **Thoughts:**
 
