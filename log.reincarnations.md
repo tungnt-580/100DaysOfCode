@@ -618,3 +618,13 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 65: Friday, April 28, 2018
+
+**Today's progress:**
+* Doing a NodeSchool workshop - Scope chains & Closure.
+* Learning Gasby.
+
+**Thoughts:**
+
+**Link to work:**
