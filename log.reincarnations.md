@@ -619,11 +619,20 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
-### Day 65: Friday, April 28, 2018
+### Day 65: Saturday, April 28, 2018
 
 **Today's progress:**
 * Doing a NodeSchool workshop - Scope chains & Closure.
 * Learning Gasby.
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 66: Sunday, April 29, 2018
+
+**Today's progress:**
+* Reading 2 chapters in *React in patterns* book - One direction data flow & Flux architecture. 
 
 **Thoughts:**
 
