@@ -632,7 +632,7 @@ https://tungnt-580.github.io/
 ### Day 66: Sunday, April 29, 2018
 
 **Today's progress:**
-* Reading 2 chapters in *React in patterns* book - One direction data flow & Flux architecture. 
+* Reading 2 chapters in [React in patterns](https://krasimir.gitbooks.io/react-in-patterns) book - One direction data flow & Flux architecture. 
 
 **Thoughts:**
 
