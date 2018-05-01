@@ -638,10 +638,19 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
-### Day 66: Monday, April 30, 2018
+### Day 67: Monday, April 30, 2018
 
 **Today's progress:**
 * Learning Gasby. Follow the tutorial in Gasby's docs.
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 68: Tuesday, May 1, 2018
+
+**Today's progress:**
+* Learning Gasby. Follow the tutorial (continue).
 
 **Thoughts:**
 
