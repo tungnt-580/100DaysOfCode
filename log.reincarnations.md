@@ -655,3 +655,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 69: Wednesday, May 2, 2018
+
+**Today's progress:**
+* Reading [React in patterns](https://krasimir.gitbooks.io/react-in-patterns) book - Redux.
+
+**Thoughts:**
+
+**Link to work:**
