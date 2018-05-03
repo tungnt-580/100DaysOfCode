@@ -664,3 +664,15 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 70: Thursday, May 3, 2018
+
+**Today's progress:**
+* Reading [React in patterns](https://krasimir.gitbooks.io/react-in-patterns) book - Dependency injection.
+* Solving 1 Codewars Kata.
+* Reading Eloquent Javascript. Chapter 4 - Data structures: Objects and Arrays.
+
+
+**Thoughts:**
+
+**Link to work:**
