@@ -672,6 +672,15 @@ https://tungnt-580.github.io/
 * Solving 1 Codewars Kata.
 * Reading Eloquent Javascript. Chapter 4 - Data structures: Objects and Arrays.
 
+**Thoughts:**
+
+**Link to work:**
+
+### Day 71: Friday, May 4, 2018
+
+**Today's progress:**
+* Reading [React in patterns](https://krasimir.gitbooks.io/react-in-patterns) book - Styling.
+* Learning Gatsby. Follow the tutorial (continue).
 
 **Thoughts:**
 
