@@ -685,3 +685,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 72: Saturday, May 5, 2018
+
+**Today's progress:**
+* Learning GraphQL. React + Apollo tutorial - Getting started.
+
+**Thoughts:**
+
+**Link to work:**
