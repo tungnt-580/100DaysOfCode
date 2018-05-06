@@ -699,6 +699,7 @@ https://tungnt-580.github.io/
 
 **Today's progress:**
 * Reading [React in patterns](https://krasimir.gitbooks.io/react-in-patterns) book - Integration of third-party libraries & Summary (Finished).
+* Learning GraphQL. React + Apollo tutorial - Queries.
 
 **Thoughts:**
 
