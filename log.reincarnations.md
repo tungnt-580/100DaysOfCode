@@ -705,3 +705,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 74: Monday, May 7, 2018
+
+**Today's progress:**
+* Learing Gatsby. Follow the tutorial - Part 2.
+
+**Thoughts:**
+
+**Link to work:**
