@@ -723,3 +723,13 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 76: Wednesday, May 9, 2018
+
+**Today's progress:**
+* Reading Eloquent Javascript. Chapter 5 - Higher-order Functions.
+* Learing Gatsby. Follow the tutorial - Part 4.
+
+**Thoughts:**
+
+**Link to work:**
