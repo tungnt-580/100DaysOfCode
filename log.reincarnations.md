@@ -709,7 +709,7 @@ https://tungnt-580.github.io/
 ### Day 74: Monday, May 7, 2018
 
 **Today's progress:**
-* Learing Gatsby. Follow the tutorial - Part 2.
+* Learning Gatsby. Follow the tutorial - Part 2.
 
 **Thoughts:**
 
@@ -718,7 +718,7 @@ https://tungnt-580.github.io/
 ### Day 75: Tuesday, May 8, 2018
 
 **Today's progress:**
-* Learing Gatsby. Follow the tutorial - Part 3.
+* Learning Gatsby. Follow the tutorial - Part 3.
 
 **Thoughts:**
 
@@ -728,7 +728,17 @@ https://tungnt-580.github.io/
 
 **Today's progress:**
 * Reading Eloquent Javascript. Chapter 5 - Higher-order Functions.
-* Learing Gatsby. Follow the tutorial - Part 4.
+* Learning Gatsby. Follow the tutorial - Part 4.
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 77: Thursday, May 10, 2018
+
+**Today's progress:**
+* Learning GraphQL. React + Apollo tutorial - Mutation.
+* Learning Gatsby. Follow the tutorial - Part 5.
 
 **Thoughts:**
 
