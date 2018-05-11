@@ -743,3 +743,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 78: Friday, May 11, 2018
+
+**Today's progress:**
+* Learning GraphQL. React + Apollo tutorial - Routing & Authentication.
+
+**Thoughts:**
+
+**Link to work:**
