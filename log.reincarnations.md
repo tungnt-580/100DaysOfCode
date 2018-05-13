@@ -756,7 +756,16 @@ https://tungnt-580.github.io/
 ### Day 79: Saturday, May 12, 2018
 
 **Today's progress:**
-* Reading Eloquent Javascript. Chapter 6 - The secret life of Objects.
+* Reading Eloquent Javascript. Chapter 6 - The secret life of Objects (in progress).
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 80: Sunday, May 13, 2018
+
+**Today's progress:**
+* Reading Eloquent Javascript. Chapter 6 - The secret life of Objects (done).
 
 **Thoughts:**
 
