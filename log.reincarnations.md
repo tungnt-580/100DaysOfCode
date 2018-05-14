@@ -770,3 +770,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 81: Monday, May 14, 2018
+
+**Today's progress:**
+* Learning Gatsby. Follow the tutorial - Part 6.
+
+**Thoughts:**
+
+**Link to work:**
