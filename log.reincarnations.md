@@ -788,3 +788,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 83: Wednesday, May 16, 2018
+
+**Today's progress:**
+* Creating own blog site - Using Gatsby and [Minimal Blog](https://github.com/LeKoArts/gatsby-starter-minimal-blog) starter.
+
+**Thoughts:**
+
+**Link to work:**
