@@ -797,3 +797,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 84: Thursday, May 17, 2018
+
+**Today's progress:**
+* Deploying blog to https://tungteng.netlify.com. Ready to write the first blog post now.
+
+**Thoughts:**
+
+**Link to work:**
