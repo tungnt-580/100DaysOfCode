@@ -806,3 +806,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 85: Friday, May 18, 2018
+
+**Today's progress:**
+* Solving 1 Codewars Kata.
+
+**Thoughts:**
+
+**Link to work:**
