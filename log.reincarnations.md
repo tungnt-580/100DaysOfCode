@@ -833,3 +833,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 88: Sunday, May 21, 2018
+
+**Today's progress:**
+* Reading Eloquent Javascript. Chapter 7 - Project: A Robot.
+
+**Thoughts:**
+
+**Link to work:**
