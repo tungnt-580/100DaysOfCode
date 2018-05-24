@@ -860,3 +860,12 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+### Day 91: Thursday, May 24, 2018
+
+**Today's progress:**
+* Reading Eloquent Javascript. Chapter 8 - Bugs and Errors (continue).
+
+**Thoughts:**
+
+**Link to work:**
