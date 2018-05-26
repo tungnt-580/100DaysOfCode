@@ -870,11 +870,6 @@ https://tungnt-580.github.io/
 
 **Link to work:**
 
-### Day 92: Friday, May 25, 2018
-
-**Today's progress:**
-* Doing nothing. Just commit for keep streak.
-
-**Thoughts:**
-
-**Link to work:**
+### Need to prepare for going to HCMC in May 26, so do nothing below days:
+* Friday, May 25, 2018
+* Saturday, May 26, 2018
