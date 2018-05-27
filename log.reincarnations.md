@@ -873,3 +873,4 @@ https://tungnt-580.github.io/
 ### Need to prepare for going to HCMC in May 26, so do nothing below days:
 * Friday, May 25, 2018
 * Saturday, May 26, 2018
+* Sunday, May 27, 2018 (Time for resting)
