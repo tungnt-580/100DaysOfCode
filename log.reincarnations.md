@@ -874,4 +874,13 @@ https://tungnt-580.github.io/
 * Friday, May 25, 2018
 * Saturday, May 26, 2018
 * Sunday, May 27, 2018 (Time for resting)
-* Monday, May 28, 201
+* Monday, May 28, 201 (Time for exploring HCMC)
+
+### Day 92: Tuesday, May 29, 2018
+
+**Today's progress:**
+* Reading Eloquent Javascript. Chapter 8 - Bugs and Errors (done).
+
+**Thoughts:**
+
+**Link to work:**
