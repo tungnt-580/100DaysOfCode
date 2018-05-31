@@ -888,7 +888,16 @@ https://tungnt-580.github.io/
 ### Day 93: Wednesday, May 30, 2018
 
 **Today's progress:**
-* Doing a NodeSchool Workshop - Stream Adventure.
+* Doing a NodeSchool Workshop - Stream Adventure (in progress).
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 94: Thursday, May 31, 2018
+
+**Today's progress:**
+* Doing a NodeSchool Workshop - Stream Adventure (done).
 
 **Thoughts:**
 
