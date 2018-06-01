@@ -902,3 +902,13 @@ https://tungnt-580.github.io/
 **Thoughts:**
 
 **Link to work:**
+
+
+### Day 95: Friday, June 1, 2018
+
+**Today's progress:**
+* Solving a Codewars Kata.
+
+**Thoughts:**
+
+**Link to work:**
